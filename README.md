@@ -23,12 +23,17 @@ Simulation of an automated path planning mechanism with obstacle detection havin
 
 ![Step-4](https://user-images.githubusercontent.com/73428876/223770818-dbcc19ac-6b2a-499b-9622-35295d5b8285.png)
 
-# Block Diagram:
+# Block Diagram: 
+- [View Miro Board](https://miro.com/app/board/o9J_lXC9580=/?moveToWidget=3074457357007210852&cot=14)
+
 ![BM23-MAT202(Probability) - Block Diagram](https://user-images.githubusercontent.com/73428876/223772825-b133df6e-02ec-41f5-a93c-dbb9813829a5.jpg)
 
-# Concept Map:
+# Concept Map: 
+- [View Miro Borad](https://miro.com/app/board/o9J_lXC9580=/?moveToWidget=3074457354628962012&cot=14)
+
 ![BM23-MAT202(Probability) - Concept Map](https://user-images.githubusercontent.com/73428876/223773421-0702d6fb-13f6-42d8-bcfa-70b17f0fe63b.jpg)
 
-# Probablistic Uncertainity Model:
+# Probablistic Uncertainity Model 
+- [View Miro Board](https://miro.com/app/board/o9J_lXC9580=/?moveToWidget=3074457356863293564&cot=14)
 
 ![BM23-MAT202(Probability) - Probabilistic Model](https://user-images.githubusercontent.com/73428876/223773371-1c5f03ff-baea-4858-a3c8-67cc381cac3f.jpg)
